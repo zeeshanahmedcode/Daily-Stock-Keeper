@@ -8,8 +8,11 @@ This tool is intended to simplify the inventory management process for online re
 **Main Features Likely Included:**
 
 Product Listing: Viewing current products in the inventory.
+
 Add/Edit/Delete Products: CRUD (Create, Read, Update, Delete) functionality for products.
+
 Daily Updates: A way to adjust stock levels based on sales or new shipments.
+
 Reports/Analytics: Features for viewing daily summaries of inventory changes or generating reports.
 
 
