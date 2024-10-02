@@ -19,7 +19,7 @@
  *
  * Requires PHP: 8.0
  * WC requires at least: 7.0.0
- * WC tested up to: 7.2.2
+ * WC tested up to: 7.2.1
  */
 
 use GreatWebsiteStudio\DailyProductInventory;
